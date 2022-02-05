@@ -26,8 +26,49 @@ Grading
 
 You may work in groups with a maximum of 2 students on the psets, and even then each of you must hand in your own solutions. There will be approximately 5–6 psets in total, covering a mix of theory and empirics.
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-|  {{< br >}}{{< br >}} Problem sets {{< br >}}{{< br >}}  | 50% |
-| Final exam | 40% |
-| Class participation | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Problem sets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
