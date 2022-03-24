@@ -219,7 +219,7 @@ Media 
 
 [Lectures 20 & 21 Slides Part 1 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_770f17_lec20_21a)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lectures 20 & 21 Slides Part 2 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_770f17_lec20_21b)
+[Lectures 20 & 21 Slides Part 2 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_770f17_lec20_21b)
 
 
 {{< tdclose >}}

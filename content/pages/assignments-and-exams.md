@@ -26,4 +26,4 @@ Exam
 
 The instructors were able to provide the final exam from the Spring 2012 verison of 14.770. Solutions are not available. 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spring 2012 Final Exam (PDF)]({{< baseurl >}}/resources/mit14_770f17_finalexam)
+[Spring 2012 Final Exam (PDF)]({{< baseurl >}}/resources/mit14_770f17_finalexam)

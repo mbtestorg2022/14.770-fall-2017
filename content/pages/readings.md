@@ -108,7 +108,7 @@ Votes and Political Decisions in Practice
 {{< tdopen >}}
 
 
-\* Spenkuch, Jörg L. (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Expressive vs. Pivotal Voters: An Empirical Assessment" (PDF - 2MB)](http://www.kellogg.northwestern.edu/faculty/spenkuch/research/voting.pdf). 
+\* Spenkuch, Jörg L. (2017). "[Expressive vs. Pivotal Voters: An Empirical Assessment" (PDF - 2MB)](http://www.kellogg.northwestern.edu/faculty/spenkuch/research/voting.pdf). 
 
 Fujiwara, Thomas (2011). "[A Regression Discontinuity Test of Strategic Voting and Duverger's Law](http://dx.doi.org/10.1561/100.00010037)", _Quarterly Journal of Political Science_ 6, pp. 197-233.
 
@@ -226,7 +226,7 @@ Martinez-Bravo, Monica (2014). "[The Role of Local Officials in New Democracies:
 
 Judis, John B. (2016). _The Populist Explosion: How the Great Recession Transformed American and European Politics_, Columbia Global Reports. ISBN: 9780997126440. 
 
-Guiso, Luigi, Helios Herrera, Massimo Morelli and Tommaso Sonno (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Demand and Supply of Populism" (PDF - 2.1M)](http://www.heliosherrera.com/populism.pdf). 
+Guiso, Luigi, Helios Herrera, Massimo Morelli and Tommaso Sonno (2017). "[Demand and Supply of Populism" (PDF - 2.1M)](http://www.heliosherrera.com/populism.pdf). 
 
 Dornbusch, Rudiger and Sebastian Edwards, ed. (1991). _The Macroeconomics of Populism in Latin America_, University of Chicago Press. ISBN: 9780226158440. 
 
@@ -294,7 +294,7 @@ Acemoglu, Daron, Georgy Egorov and Konstantin Sonin (2010). "[Political Selectio
 
 Acemoglu, Daron, James A. Robinson and Ragnar Torvik (2013). "[Why Do Voters Dismantle Checks and Balances?](http://www.nber.org/papers/w17293)", _Review of Economic Studies_ 80 (3), pp. 845-875.
 
-\* ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Anderson, Siwan and Patrick François (2017). "[Reservations and the Politics of Fear" (PDF)](https://economics.yale.edu/sites/default/files/reservations_bread_may17.pdf). 
+\* Anderson, Siwan and Patrick François (2017). "[Reservations and the Politics of Fear" (PDF)](https://economics.yale.edu/sites/default/files/reservations_bread_may17.pdf). 
 
 \* Acemoglu, Daron, Tristan Reed and James A. Robinson (2014). "[Chiefs: Economic Development and Elite Control of Civil Society in Sierra Leone](https://scholar.harvard.edu/jrobinson/publications/chiefs-Economic-Development-And-Elite-Control-Civil-Society-Sierra-Leone-0)", _Journal of Political Economy_ 122 (2), pp. 319-368.
 
@@ -585,7 +585,7 @@ Olken, Benjamin A. and Monica Singhal (2011). "[Informal Taxation](https://doi.o
 
 Munshi, Kaivan and Mark Rosenzweig (2015). "[Insiders and Outsiders: Local Ethnic Politics and Public Good Provision](http://www.nber.org/papers/w21720)", _NBER Working Paper No. 21720_.
 
-Bazzi, Samuel, Arya Gaduh, Alexander Rothenberg, and Maisy Wong (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unity in Diversity? Ethnicity, Migration, and Nation Building in Indonesia" (PDF - 1.5MB)](https://www.bu.edu/econ/files/2017/04/Bazzi_Unity_in_Diversity.pdf).
+Bazzi, Samuel, Arya Gaduh, Alexander Rothenberg, and Maisy Wong (2017). "[Unity in Diversity? Ethnicity, Migration, and Nation Building in Indonesia" (PDF - 1.5MB)](https://www.bu.edu/econ/files/2017/04/Bazzi_Unity_in_Diversity.pdf).
 
 
 {{< tdclose >}}
@@ -785,13 +785,13 @@ Media and Protest
 
 Barberà, Salvador and Matthew O. Jackson (2017). "[A Model of Protests, Revolution, and Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2732864)".
 
-Chong, Alberto, Claudio Ferraz, Frederico Finan, Eliana La Ferrara and Luis Meloni (2017). "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.cemfi.es/ftp/pdf/papers/wshop/Can%20Entertainment%20Media%20Undermine%20Dictatorships.pdf)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Can Entertainment Media Undermine Dictatorships? Evidence from Brazil's Novelas (PDF)](http://www.cemfi.es/ftp/pdf/papers/wshop/Can%20Entertainment%20Media%20Undermine%20Dictatorships.pdf)", mimeo.
+Chong, Alberto, Claudio Ferraz, Frederico Finan, Eliana La Ferrara and Luis Meloni (2017). "[](http://www.cemfi.es/ftp/pdf/papers/wshop/Can%20Entertainment%20Media%20Undermine%20Dictatorships.pdf)[Can Entertainment Media Undermine Dictatorships? Evidence from Brazil's Novelas (PDF)](http://www.cemfi.es/ftp/pdf/papers/wshop/Can%20Entertainment%20Media%20Undermine%20Dictatorships.pdf)", mimeo.
 
 Enikolopov, Ruben, Alexey Makarin, and Maria Petrova (2016). "[Social Media and Protest Participation: Evidence from Russia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2696236)".
 
 Campante, Filipe Ruben Durante and Francesco Sobbrio (2017). "[Politics 2.0: The Multifaceted Effect of Broadband Internet on Political Participation](https://scholar.harvard.edu/campante/publications/politics-20-multifaceted-effect-broadband-internet-political-participation)", forthcoming in _Journal of the European Economic Association_.
 
-Manacorda, Marco and Andrea Tesei (2016). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Liberation Technology: Mobile Phones and Political Mobilization in Africa (PDF - 5.7MB)](http://scholar.princeton.edu/sites/default/files/ictandgov/files/paper_panel_1_tesei.pdf)", mimeo.
+Manacorda, Marco and Andrea Tesei (2016). "[Liberation Technology: Mobile Phones and Political Mobilization in Africa (PDF - 5.7MB)](http://scholar.princeton.edu/sites/default/files/ictandgov/files/paper_panel_1_tesei.pdf)", mimeo.
 
 Madestam, Andreas, Daniel Shoag, Stan Veuger and David Yanigazawa-Drott (2013). "[Do Political Protests Matter? Evidence from the Tea Party Movement](https://doi.org/10.1093/qje/qjt021)", _Quarterly Journal of Economics_ 128(4): 1633-1685.
 
@@ -814,7 +814,7 @@ Do Bureaucrats Matter?
 
 \* Best, Michael Carlos, Jonas Hjort, and David Szakonyi (2017). "[Individuals and Organizations as Sources of State Effectiveness, and Consequences for Policy Design](http://www.nber.org/papers/w23350)", NBER Working Paper No. 23350. 
 
-Bertrand, Marianne, Robin Burgess, Arunish Chawla and Guo Xu (2016). "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Costs of Bureaucratic Rigidity: Evidence from the Indian Administrative Service (PDF - 2.5MB)](https://pdfs.semanticscholar.org/e919/13a61001aa2c09609a1fdfcbf91f89d3a9bd.pdf)", mimeo.
+Bertrand, Marianne, Robin Burgess, Arunish Chawla and Guo Xu (2016). "[The Costs of Bureaucratic Rigidity: Evidence from the Indian Administrative Service (PDF - 2.5MB)](https://pdfs.semanticscholar.org/e919/13a61001aa2c09609a1fdfcbf91f89d3a9bd.pdf)", mimeo.
 
 Do, Quoc-Anh, Kieu-Trang Nguyen, and Anh Tran (2016). "[One Mandarin Beneﬁts the Whole Clan: Hometown Favoritism in an Authoritarian Regime](http://doi.org/10.1257/app.20130472)", _American Economic Journal: Applied Economics_ 9 (4): 1–29_._ 
 
@@ -852,7 +852,7 @@ Selection of Bureaucrats
 {{< tdopen >}}
 
 
-\* Xu, Guo (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Costs of Patronage: Evidence from the British Empire (PDF)](https://www.aeaweb.org/articles?id=10.1257/aer.20171339)", mimeo.
+\* Xu, Guo (2017). "[The Costs of Patronage: Evidence from the British Empire (PDF)](https://www.aeaweb.org/articles?id=10.1257/aer.20171339)", mimeo.
 
 Ashraf, Nava, Oriana Bandiera, and Scott S. Lee (2016). "[Do-Gooders and Go-Getters: Selection and Performance in Public Service Delivery](https://www.hbs.edu/faculty/Pages/item.aspx?num=46043)", mimeo.
 
@@ -860,9 +860,9 @@ Dal B´o, Ernesto, Frederico Finan and Martin A. Rossi (2013). "[Strengthening S
 
 Hanna, Rema and Shing-Yi Wang (2016). "[Dishonesty and Selection into Public Service](http://doi.org/10.1257/pol.20150029)", forthcoming in _American Economic Journal: Economic Policy_.
 
-Weaver, Jeff B. (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Jobs for Sale: Corruption and Misallocation in Hiring (PDF -2.0MB)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3590721)", mimeo.
+Weaver, Jeff B. (2017). "[Jobs for Sale: Corruption and Misallocation in Hiring (PDF -2.0MB)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3590721)", mimeo.
 
-Ornaghi, Arianna (2016). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Civil Service Reforms: Evidence from U.S. Police Departments (PDF -1.4MB)](http://www.eief.it/files/2017/01/02-jmp_ornaghi.pdf)", mimeo.
+Ornaghi, Arianna (2016). "[Civil Service Reforms: Evidence from U.S. Police Departments (PDF -1.4MB)](http://www.eief.it/files/2017/01/02-jmp_ornaghi.pdf)", mimeo.
 
 
 {{< tdclose >}}
@@ -953,7 +953,7 @@ Duﬂo, Esther, Rema Hanna and Stephen P. Ryan (2012). "[Incentives Work: Gettin
 
 Niehaus, Paul and Sandip Sukhtankar (2013). "[Corruption Dynamics: The Golden Goose Effect](http://www.jstor.org/stable/43189359)", _American Economic Journal: Economic Policy_ 5(4): 230-269.
 
-Di Tella, Rafael and Ernesto Schargrodsky (2003). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Role of Wages and Auditing during a Crackdown on Corruption in the City of Buenos Aires (PDF)](http://www.webssa.net/files/di_tella_and_shargrodsky.pdf)", _Journal of Law and Economics_ 46(1): 269-292.
+Di Tella, Rafael and Ernesto Schargrodsky (2003). "[The Role of Wages and Auditing during a Crackdown on Corruption in the City of Buenos Aires (PDF)](http://www.webssa.net/files/di_tella_and_shargrodsky.pdf)", _Journal of Law and Economics_ 46(1): 269-292.
 
 Mookerjee, Dilip and I. P. L. Png (1995). "[Corruptible Law Enforcers: How Should They Be Compensated?](http://www.jstor.org/stable/2235324)", _Economic Journal_ 105: 145-159.
 
@@ -1011,7 +1011,7 @@ Fisman, Raymond and Yongxiang Wang (2015). "[The Mortality Cost of Political Con
 
 ### Elections as a Disciplinary Device
 
-\* Banerjee, Abhijit, Selvan Kumar, Rohini Pande and Felix Su (2011). "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Do Informed Voters Make Better Choices? Experimental Evidence from Urban India" (PDF - 4.6MB)](https://scholar.harvard.edu/files/rpande/files/do_informed_voters_make_better_choices.pdf).
+\* Banerjee, Abhijit, Selvan Kumar, Rohini Pande and Felix Su (2011). "[Do Informed Voters Make Better Choices? Experimental Evidence from Urban India" (PDF - 4.6MB)](https://scholar.harvard.edu/files/rpande/files/do_informed_voters_make_better_choices.pdf).
 
 \* Ferraz, Claudio and Frederico Finan (2008). "[Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits and Electoral Outcomes](https://doi.org/10.1162/qjec.2008.123.2.703)", _Quarterly Journal of Economics_ 123(2): 703-745.
 
