@@ -4,6 +4,7 @@ description: 'This resource contains information regarding introduction to polit
   economy: Problem set solutions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-770-introduction-to-political-economy-fall-2017/0ad5cb14f2338e0eb901178733f90fe3_MIT14_770F17_pset1sol.pdf
 file_type: application/pdf
+parent_uid: 6e3b25a5-9349-0138-f7ae-8754ee8de36a
 resourcetype: Document
 title: 14.770 F17 Problem Set 1 Solutions
 uid: 0ad5cb14-f233-8e0e-b901-178733f90fe3
